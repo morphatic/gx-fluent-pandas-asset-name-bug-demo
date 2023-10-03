@@ -23,3 +23,7 @@ To reproduce the issue locally:
    3. `source .venv/Scripts/activate` (Windows)
 5. To see existing data docs, open `docs/index.html` in your browser
 6. To do a new validation run, `python main.py`
+
+Here is a screenshot of the output:
+
+![screenshot of GX data docs with missing asset name](./screenshots/asset_name_missing.png)
