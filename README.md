@@ -4,7 +4,7 @@ This repo contains a minimal runnable example of how when using Fluent Pandas fi
 
 ## View the Output Online
 
-The data docs output has been routed to the `docs/` folder in the root of this project and [can be viewed using GitHub Pages](https://morpahtic.github.io/gx-fluent-pandas-asset-name-bug-demo/).
+The data docs output has been routed to the `docs/` folder in the root of this project and [can be viewed using GitHub Pages](https://morphatic.github.io/gx-fluent-pandas-asset-name-bug-demo/).
 
 ## Reproduce Locally
 
