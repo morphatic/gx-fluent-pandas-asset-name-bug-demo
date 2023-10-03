@@ -27,3 +27,7 @@ To reproduce the issue locally:
 Here is a screenshot of the output:
 
 ![screenshot of GX data docs with missing asset name](./screenshots/asset_name_missing.png)
+
+## Credits
+
+This project uses the [Iris dataset from UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris).
